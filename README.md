@@ -1,4 +1,4 @@
-# testfrombetterprogrammer
+# Test from betterprogrammer
 
 1) Implement the method to return the sum of all integers found in the parameter String. You can assume that integers are separated from other parts with one or more spaces (' ' symbol).
 For example, s="12 some text 3  7", result: 22 (12+3+7=22).
